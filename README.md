@@ -4,7 +4,7 @@ Comprehensive investment planning tool —
 SIP, lumpsum, goal planner and retirement calculator.
 
 ## Live Demo
-[Click here](YOUR_STREAMLIT_URL)
+[Click here](https://sip-calculator-7pmxqjvdzzyhwuaize7sdy.streamlit.app)
 
 ## Features
 - SIP calculator with step-up option
